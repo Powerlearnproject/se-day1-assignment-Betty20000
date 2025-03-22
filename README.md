@@ -77,4 +77,4 @@ Improving the AI efficiency
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 1. Vague - "Tell me about AI."
-2. Clear,specific and detatailed Improved prompt- "Provide a detailed explanation of artificial intelligence, covering its history, major subfields, and current applications in healthcare and finance."
+2. Clear,specific and detailed Improved prompt- "Provide a detailed explanation of artificial intelligence, covering its history, major subfields, and current applications in healthcare and finance."
