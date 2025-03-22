@@ -42,20 +42,39 @@ Quality Assuarance Engineer - Testing the project to make sure it adheres to the
 Project Manager - Planning,researching and developing project requirements
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-1. Integrated Development Environments (IDEs)
-2. Version Control Systems (VCS)
+1. Integrated Development Environments (IDEs)- This are software envinments that allow developers to write and test codes.eg. VS code.
+   
+3. Version Control Systems (VCS)-This are software environments that allows developers to store their code and track changes as they commit as well as collaborate with other developers.
    
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+1. Dynamic technologies
+2. Debugging complex challenges
+3. Tight or unrealistic Dealines
+4. Burnout
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing ensures that individual components are error-free.
+
+Integration Testing ensures that the system’s components work together as intended.
+
+System Testing ensures that the entire system functions correctly and meets the overall requirements.
+
+Acceptance Testing ensures that the software meets business needs and is ready for deployment, as validated by stakeholders or end-users.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering refers to the process of designing and crafting inputs/instructions for AI models, in such a way that they produce desired, accurate, and useful responses.
+### importance
+Improving Response Accuracy
+Reducing Ambiguity and Misinterpretation
+Improving the AI efficiency
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+1. Vague - "Tell me about AI."
+2. Clear,specific and detatailed Improved prompt- "Provide a detailed explanation of artificial intelligence, covering its history, major subfields, and current applications in healthcare and finance."
